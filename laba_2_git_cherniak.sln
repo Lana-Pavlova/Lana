@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "laba_2_git_cherniak", "laba_2_git_cherniak.pyproj", "{91AD2FDE-D5DD-46F8-A224-37C3E7E28F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AD2FDE-D5DD-46F8-A224-37C3E7E28F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AD2FDE-D5DD-46F8-A224-37C3E7E28F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AD2FDE-D5DD-46F8-A224-37C3E7E28F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AD2FDE-D5DD-46F8-A224-37C3E7E28F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37E4596-26AC-4F69-A83F-490B3B3A75E3}
+	EndGlobalSection
+EndGlobal
