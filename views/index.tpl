@@ -3,7 +3,7 @@
 <div class="jumbotron">
     <img src="static\images\logo_nav.png"> 
     <p> </p>
-    <p class="lead">Bottle is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p class="lead">Обучаем Java-разработчиков</p>
     <p><a href="http://bottlepy.org/docs/dev/index.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 </div>
 
